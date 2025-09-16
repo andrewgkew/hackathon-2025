@@ -1,4 +1,3 @@
-  labels:
     global: 'true'
 config:
   status_code: 503
