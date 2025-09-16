@@ -1,6 +1,3 @@
-apiVersion: configuration.konghq.com/v1
-kind: KongClusterPlugin
-metadata:
   name: request-termination
   namespace: kic
   annotations:
