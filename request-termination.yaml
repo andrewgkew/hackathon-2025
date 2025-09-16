@@ -1,3 +1,2 @@
-config:
   status_code: 503
 plugin: request-termination
