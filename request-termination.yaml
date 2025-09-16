@@ -1,12 +1,1 @@
-apiVersion: configuration.konghq.com/v1
-kind: KongClusterPlugin
-metadata:
-  name: request-termination
-  namespace: kic
-  annotations:
-    kubernetes.io/ingress.class: kong
-  labels:
-    global: 'true'
-config:
-  status_code: 503
-plugin: request-termination
+
